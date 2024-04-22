@@ -4,7 +4,7 @@
     "image": "https://placeholder.co/250x250",
     "name": "Small Events",
     "price": "£295.00",
-    "description": "Our small event package:",
+    "description": "Small event package:",
     "items": [
       "12x Sandwiches of choice",
       "12x Scones of choice",
@@ -18,7 +18,7 @@
     "image": "https://placeholder.co/250x250",
     "name": "Medium Events",
     "price": "£595.00",
-    "description": "Our medium event package:",
+    "description": "Medium event package:",
     "items": [
       "24x Sandwiches of choice",
       "24x Scones of choice",
@@ -32,7 +32,7 @@
     "image": "https://placeholder.co/250x250",
     "name": "Large Events",
     "price": "£995.00",
-    "description": "Our large event package:",
+    "description": "Large event package:",
     "items": [
       "48x Sandwiches of choice",
       "48x Scones of choice",
