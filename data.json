@@ -1,0 +1,27 @@
+{
+    "facilities": {
+      "library": "Dove University's library has over 100000 books.",
+      "cafe": "Dove University's café has vegetarian and vegan options.",
+      "gym": "Dove University's gym has a full gym, a pool, and a sauna."
+    },
+    "events": {
+      "2025-01-01": "Dove University is running a welcome day.",
+      "2025-01-02": "Dove University is running a career fair."
+    },
+    "staff": {
+        "John Doe": {
+            "office": "The Reactor Building, Room R034",
+            "email": "johndoe@dove.ac.uk",
+            "phone": "07875987009"
+        },
+        "Jane Doe": {
+            "office": "The Enterprise Building, Room E157",
+            "email": "janedoe@dove.ac.uk",
+            "phone": "07875321003"
+        }
+    },
+    "courses": {
+      "100": "Multiple Devices and User Experience",
+      "200": "Developing with Web Frameworks"
+    }
+}
